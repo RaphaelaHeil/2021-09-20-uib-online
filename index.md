@@ -258,6 +258,12 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+<p class="text-center">
+  <a href="https://www.uib.no/ub/146901/software-carpentry-course-research-computing-skills-shell-python-git">
+    <button type="button" class="btn btn-info">More details and registration</button>
+  </a>
+</p>
+
 <hr/>
 
 {% comment%}
